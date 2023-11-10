@@ -16,3 +16,4 @@ console.log(`Factorial = ${factorial(8)}`)
 
 
 // logic 2
+//
