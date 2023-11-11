@@ -1,4 +1,4 @@
-// bubblesort => swap with next if greater
+// bubblesort => swap with next if greater last element sorted first
 
 function bublesort(arr) {
     let swapped
